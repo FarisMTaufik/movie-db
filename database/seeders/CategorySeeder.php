@@ -19,7 +19,7 @@ class CategorySeeder extends Seeder
         [
             'category_name' => 'Action',
             'description' => 'Film dengan adegan-adegan dengan penuh aksi dan ketegangan.',
-             'created_at' => now(),
+            'created_at' => now(),
             'updated_at' => now(),
         ],
         [
